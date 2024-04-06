@@ -1,2 +1,2 @@
-# AlphaBetaGammaSigma
+# DATA SCIENCE MASTERS
 
